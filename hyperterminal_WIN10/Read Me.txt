@@ -1,0 +1,1 @@
+Copy all files to C:\Program Files (x86)\Windows NT\Accessories (Windows 10)
